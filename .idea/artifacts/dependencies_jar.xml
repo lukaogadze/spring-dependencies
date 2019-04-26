@@ -1,0 +1,70 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dependencies:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dependencies_jar</output-path>
+    <root id="archive" name="dependencies.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-tx-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-aop-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jcl-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jms-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-orm-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-oxm-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-web-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-core-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jdbc-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-test-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-beans-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-webmvc-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-aspects-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-webflux-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-messaging-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-websocket-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-expression-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-instrument-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-tx-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-tx-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-aop-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-aop-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jcl-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jcl-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jms-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jms-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-orm-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-orm-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-oxm-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-oxm-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-web-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-web-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-core-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-core-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jdbc-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-jdbc-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-test-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-test-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-beans-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-beans-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-webmvc-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-webmvc-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-aspects-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-aspects-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-indexer-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-support-5.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-webflux-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-webflux-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-messaging-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-messaging-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-websocket-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-websocket-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-expression-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-expression-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-instrument-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-instrument-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-indexer-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-indexer-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-support-5.1.6.RELEASE-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/lib/spring-context-support-5.1.6.RELEASE-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
